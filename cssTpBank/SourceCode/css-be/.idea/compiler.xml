@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile default="true" name="Default" enabled="true" />
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="css-api-model" />
+        <module name="css-api-profile" />
+        <module name="css-api-admin" />
+        <module name="css-common" />
+        <module name="css-core" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="css-api-admin" target="1.8" />
+      <module name="css-api-model" target="1.8" />
+      <module name="css-api-profile" target="1.8" />
+      <module name="css-common" target="1.8" />
+      <module name="css-core" target="1.8" />
+      <module name="css-tpb" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="css-api-admin" options="-parameters" />
+      <module name="css-api-model" options="-parameters" />
+      <module name="css-api-profile" options="-parameters" />
+      <module name="css-common" options="-parameters" />
+      <module name="css-core" options="-parameters" />
+    </option>
+  </component>
+</project>

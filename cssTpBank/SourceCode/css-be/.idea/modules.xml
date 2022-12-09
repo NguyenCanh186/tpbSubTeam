@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/css-tpb-api-cms/css-api-admin/css-api-admin.iml" filepath="$PROJECT_DIR$/css-tpb-api-cms/css-api-admin/css-api-admin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/css-tpb-api-cms/css-api-model/css-api-model.iml" filepath="$PROJECT_DIR$/css-tpb-api-cms/css-api-model/css-api-model.iml" />
+      <module fileurl="file://$PROJECT_DIR$/css-tpb-api-cms/css-api-profile/css-api-profile.iml" filepath="$PROJECT_DIR$/css-tpb-api-cms/css-api-profile/css-api-profile.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/css-be.iml" filepath="$PROJECT_DIR$/.idea/css-be.iml" />
+      <module fileurl="file://$PROJECT_DIR$/css-tpb-api-cms/css-common/css-common.iml" filepath="$PROJECT_DIR$/css-tpb-api-cms/css-common/css-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/css-tpb-api-cms/css-core/css-core.iml" filepath="$PROJECT_DIR$/css-tpb-api-cms/css-core/css-core.iml" />
+      <module fileurl="file://$PROJECT_DIR$/css-tpb-api-cms/css-tpb.iml" filepath="$PROJECT_DIR$/css-tpb-api-cms/css-tpb.iml" />
+    </modules>
+  </component>
+</project>
